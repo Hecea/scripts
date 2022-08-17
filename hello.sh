@@ -1,4 +1,5 @@
 #!/bin/bash
+#chmod -x monscript.sh
 
 # simple example for training
 # comment
@@ -6,7 +7,9 @@
 
 echo " Hello"
 echo "Print text  with  a new line"
-echo -n "Print textt without newline"
+echo -n "Print text without newline"
 echo -e "\nRemoving \t backslash \t characters\n"
+
+                                                                                                                                                                                                                                                                                                                                                                                                
 
 
