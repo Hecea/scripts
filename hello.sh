@@ -11,8 +11,9 @@ echo -n "Print text without newline"
 echo -e "\nRemoving \t backslash \t characters\n"
 logname
 uname -m
+# cat controlDroit.sh
+chmod +x controlDroit.sh
+cat controlDroit.sh
 
-
-                                                                                                                                                                                                                                                                                                                                                                                                
 
 
