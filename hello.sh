@@ -15,6 +15,7 @@ uname -m
 chmod +x controlDroit.sh
 ls -a
 ls -i
+ls -ltr
 cat controlDroit.sh
 
 
