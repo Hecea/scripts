@@ -13,7 +13,10 @@ logname
 uname -m
 # cat controlDroit.sh
 chmod +x controlDroit.sh
+ls -a
+ls -i
 cat controlDroit.sh
+
 
 
 
