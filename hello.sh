@@ -17,6 +17,7 @@ ls -a
 ls -i
 ls -ltr
 netstat
+traceroute
 cat controlDroit.sh
 
 
