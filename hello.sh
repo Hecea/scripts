@@ -18,6 +18,7 @@ ls -i
 ls -ltr
 netstat
 traceroute
+touch fichierVide.txt fichierVide2.txt
 cat controlDroit.sh
 
 
