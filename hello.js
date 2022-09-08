@@ -1,2 +1,3 @@
-var x = 7
-print(x)
+var x = 7;
+var y = x;
+print(x);
