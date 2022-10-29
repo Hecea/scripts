@@ -2,3 +2,4 @@
 # variable PATH
 
 echo $PATH
+# caracteres speciaux | etc ...
